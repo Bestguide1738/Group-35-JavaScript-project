@@ -504,6 +504,7 @@
   
   .payment-options {
     flex-wrap: wrap;
+    display:flex;
     gap: 1rem;
     margin-top: 0.8rem;
   }
