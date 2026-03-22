@@ -519,7 +519,8 @@
     background: var(--card-bg);
     min-width: 160px;
   }
-  
+.payment-option: hover{border-color:var(--accent)
+                      box-shadow:0 4px 12px rgpa(99,102,241,0.15,)};
   
   
   .payment-option input[type="radio"] {
